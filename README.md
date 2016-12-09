@@ -1,3 +1,5 @@
 # Payroll plugin for CakePHP
 
-To be done...
+Calculate german payroll data (taxes and social insurance)
+
+WIP...
