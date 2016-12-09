@@ -73,7 +73,7 @@ class TaxComponent extends Component
      */
     private function __loadClass($year)
     {
-        require_once(ROOT . DS . 'plugins' . DS . 'Payroll' . DS . 'src' . DS . 'Utility' . DS . 'Tax' . $year . '.php');
+        require_once(ROOT . DS . 'vendor' . DS . 'ldsign' . DS . 'cake-payroll' . DS . 'src' . DS . 'Utility' . DS . 'Tax' . $year . '.php');
 
         $this->tax = $class;
     }
