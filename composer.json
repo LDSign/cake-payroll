@@ -1,0 +1,30 @@
+{
+    "name": "LDSign/cake-payroll",
+    "description": "Calculate german payroll data (taxes and social insurance)",
+    "homepage": "https://github.com/LDSign/cake-payroll",
+    "type": "cakephp-plugin",
+    "license": "MIT",
+    "authors": [{
+        "name": "Frank Lamozik",
+        "email": "info@ldsign.de"
+    }],
+	"support": {
+		"issues": "https://github.com/LDSign/cake-payroll/issues",
+		"source": "https://github.com/LDSign/cake-payroll"
+	},
+    "require": {
+        "php": ">=5.5.9",
+        "cakephp/cakephp": ">=3.3.3 <4.0.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "Payroll\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Payroll\\Test\\": "tests",
+            "Cake\\Test\\": "./vendor/cakephp/cakephp/tests"
+        }
+    }
+}
