@@ -1,16 +1,16 @@
 {
-    "name": "LDSign/cake-payroll",
+    "name": "ldsign/cake-payroll",
     "description": "Payroll plugin for CakePHP",
-    "homepage": "https://github.com/LDSign/cake-payroll",
+    "homepage": "https://github.com/ldsign/cake-payroll",
     "type": "cakephp-plugin",
     "license": "MIT",
     "authors": [{
-        "name": "Frank Lamozik",
+        "name": "LDSign",
         "email": "info@ldsign.de"
     }],
 	"support": {
-		"issues": "https://github.com/LDSign/cake-payroll/issues",
-		"source": "https://github.com/LDSign/cake-payroll"
+		"issues": "https://github.com/ldsign/cake-payroll/issues",
+		"source": "https://github.com/ldsign/cake-payroll"
 	},
     "require": {
         "php": ">=5.5.9",
