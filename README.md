@@ -33,7 +33,7 @@ Plugin::load('Payroll', ['bootstrap' => false, 'routes' => true]);
 For a quick calculation navigate to
 
 ```
-http://localhost/ebsst_v4/payroll/taxes
+/payroll/taxes
 ```
 
 ## ToDo
