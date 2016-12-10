@@ -8,6 +8,11 @@ This plugin uses standalone and cake independent classes for tax calculations. T
 
 https://www.bmf-steuerrechner.de/pruefdaten/pap2017.pdf
 
+## Requirements
+
+* CakePHP 3.0+
+* PHP 5.5+
+
 ## Installation
 
 You can install this plugin into your CakePHP application using [composer](http://getcomposer.org).
@@ -37,3 +42,11 @@ http://localhost/ebsst_v4/payroll/taxes
 * Unit tests
 * Check results against official webservice
 * Social insurance component
+
+## Support
+
+For bugs and feature requests, please use the [issues](https://github.com/ldsign/cake-payroll/issues) section of this repository.
+
+## License
+
+Licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php) License. Redistributions of the source code included in this repository must retain the copyright notice found in each file.
