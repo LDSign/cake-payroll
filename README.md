@@ -1,6 +1,6 @@
 # Payroll plugin for CakePHP
 
-[![Latest Version](https://poser.pugx.org/ldsign/cake-payroll/v/stable)](https://packagist.org/packages/ldsign/cake-payroll)
+[![Latest Version](https://poser.pugx.org/ldsign/cake-payroll/v/stable?style=flat-square)](https://packagist.org/packages/ldsign/cake-payroll)
 [![Total Downloads](https://img.shields.io/packagist/dt/friendsofcake/CakePdf.svg?style=flat-square)](https://packagist.org/packages/ldsign/cake-payroll)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://packagist.org/packages/ldsign/cake-payroll)
 
