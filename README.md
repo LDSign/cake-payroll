@@ -1,10 +1,12 @@
 # Payroll plugin for CakePHP
 
-[![Latest Version](https://poser.pugx.org/ldsign/cake-payroll/v/stable?style=flat-square)](https://packagist.org/packages/ldsign/cake-payroll)
-[![Total Downloads](https://img.shields.io/packagist/dt/friendsofcake/CakePdf.svg?style=flat-square)](https://packagist.org/packages/ldsign/cake-payroll)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://packagist.org/packages/ldsign/cake-payroll)
 
-Calculate german payroll data (taxes and social insurance)
+Calculate german payroll data (taxes and social insurance).
+
+This plugin uses standalone and cake independent classes for tax calculations. This was done for staying as close as possible to the official programming flowchart of the german finance authority. See:
+
+https://www.bmf-steuerrechner.de/pruefdaten/pap2017.pdf
 
 ## Installation
 
@@ -28,3 +30,10 @@ For a quick calculation navigate to
 ```
 http://localhost/ebsst_v4/payroll/taxes
 ```
+
+## ToDo
+
+* Extend documentation
+* Unit tests
+* Check results against official webservice
+* Social insurance component
