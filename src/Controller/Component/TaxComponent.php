@@ -30,7 +30,7 @@ use Payroll\Soz2017;
 class TaxComponent extends Component
 {
     /**
-     * Initialize properties.
+     * Initialize config.
      *
      * @param array $config The config data.
      * @return void
